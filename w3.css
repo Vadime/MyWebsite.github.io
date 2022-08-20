@@ -109,6 +109,7 @@ hr {
 
 button, input, select, textarea, optgroup {
     font: inherit;
+    
     margin:0
 }
 
@@ -466,6 +467,7 @@ a {
     width: 100%;
     text-align: left;
     padding: 8px 16px
+    
 }
 
 .w3-main, #main {
